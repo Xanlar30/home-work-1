@@ -1,0 +1,12 @@
+:root {
+    --content-width: 1250px;
+    --content-background-color: red;
+    --content-transition: background-color .5s;
+    --content-text-decoration: none;
+    --content-font-family: sans-serif;
+    --content-color: #656363;
+    --content-display: flex;
+    --content-justify-content: center;
+    
+
+}
